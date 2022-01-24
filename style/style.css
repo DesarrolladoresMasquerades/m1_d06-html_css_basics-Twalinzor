@@ -1,0 +1,35 @@
+body {
+  background-color: #d8e3e7;
+}
+
+h1 {
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+  font-style: italic;
+  color: #126e82;
+}
+
+p {
+  font-weight: bold;
+  text-align: center;
+  color: #132c33;
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+figure {
+  text-align: center;
+}
+
+nav {
+  font-weight: bold;
+  color: black;
+  text-align: right;
+}
+
+a {
+  text-decoration: none;
+  color: #51c4d3;
+}
